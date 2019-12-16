@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #read HOST
 HOST="google.com"
 ping -c 1 $HOST
